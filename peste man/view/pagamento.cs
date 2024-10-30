@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -11,21 +10,11 @@ using System.Windows.Forms;
 
 namespace peste_man.view
 {
-    public partial class loja : Form
+    public partial class pagamento : Form
     {
-        public loja()
+        public pagamento()
         {
             InitializeComponent();
-        }
-
-        private void label10_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Cafe(object sender, EventArgs e)
-        {
-
         }
     }
 }

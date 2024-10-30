@@ -24,6 +24,7 @@ namespace peste_man
         {
             login login = new login();
             login.ShowDialog();
+            login.Hide();
         }
     }
 }
